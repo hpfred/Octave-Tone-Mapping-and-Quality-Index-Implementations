@@ -1,0 +1,26 @@
+# Created by Octave 6.4.0, Mon Jun 20 19:23:15 2022 GMT <unknown@DESKTOP-N8652AJ>
+# name: out
+# type: sq_string
+# elements: 1
+# length: 345
+--Bottles_Small--
+#LTM
+Quality Score: 0.79993
+LDR Fidelity Score: 0.99481
+LDR Statistical Score: 0
+#MLTM
+Quality Score: 0.79333
+LDR Fidelity Score: 0.96812
+LDR Statistical Score: 0
+#ETM
+Quality Score: 0.72533
+LDR Fidelity Score: 0.72136
+LDR Statistical Score: 0
+#METM
+Quality Score: 0.70027
+LDR Fidelity Score: 0.64271
+LDR Statistical Score: 0
+
+
+
+

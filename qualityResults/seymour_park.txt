@@ -1,0 +1,26 @@
+# Created by Octave 6.4.0, Mon Jun 20 19:33:31 2022 GMT <unknown@DESKTOP-N8652AJ>
+# name: out
+# type: sq_string
+# elements: 1
+# length: 344
+--seymour_park--
+#LTM
+Quality Score: 0.7881
+LDR Fidelity Score: 0.94731
+LDR Statistical Score: 0
+#MLTM
+Quality Score: 0.28436
+LDR Fidelity Score: 0.033347
+LDR Statistical Score: 0
+#ETM
+Quality Score: 0.73504
+LDR Fidelity Score: 0.75357
+LDR Statistical Score: 0
+#METM
+Quality Score: 0.72849
+LDR Fidelity Score: 0.73173
+LDR Statistical Score: 0
+
+
+
+

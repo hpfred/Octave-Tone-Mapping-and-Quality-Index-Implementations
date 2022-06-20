@@ -1,0 +1,26 @@
+# Created by Octave 6.4.0, Mon Jun 20 19:27:12 2022 GMT <unknown@DESKTOP-N8652AJ>
+# name: out
+# type: sq_string
+# elements: 1
+# length: 347
+--nancy_cathedral_1--
+#LTM
+Quality Score: 0.79644
+LDR Fidelity Score: 0.98064
+LDR Statistical Score: 0
+#MLTM
+Quality Score: 0.45004
+LDR Fidelity Score: 0.15054
+LDR Statistical Score: 0
+#ETM
+Quality Score: 0.78436
+LDR Fidelity Score: 0.93264
+LDR Statistical Score: 0
+#METM
+Quality Score: 0.749
+LDR Fidelity Score: 0.80156
+LDR Statistical Score: 0
+
+
+
+

@@ -1,0 +1,26 @@
+# Created by Octave 6.4.0, Mon Jun 20 19:25:16 2022 GMT <unknown@DESKTOP-N8652AJ>
+# name: out
+# type: sq_string
+# elements: 1
+# length: 336
+--Iwate--
+#LTM
+Quality Score: 0.78175
+LDR Fidelity Score: 0.92247
+LDR Statistical Score: 0
+#MLTM
+Quality Score: 0.30828
+LDR Fidelity Score: 0.043474
+LDR Statistical Score: 0
+#ETM
+Quality Score: 0.68154
+LDR Fidelity Score: 0.588
+LDR Statistical Score: 0
+#METM
+Quality Score: 0.67622
+LDR Fidelity Score: 0.57306
+LDR Statistical Score: 0
+
+
+
+

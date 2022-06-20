@@ -1,0 +1,26 @@
+# Created by Octave 6.4.0, Mon Jun 20 19:23:02 2022 GMT <unknown@DESKTOP-N8652AJ>
+# name: out
+# type: sq_string
+# elements: 1
+# length: 341
+--AtriumNight--
+#LTM
+Quality Score: 0.78359
+LDR Fidelity Score: 0.92962
+LDR Statistical Score: 0
+#MLTM
+Quality Score: 0.49649
+LDR Fidelity Score: 0.20782
+LDR Statistical Score: 0
+#ETM
+Quality Score: 0.76797
+LDR Fidelity Score: 0.87015
+LDR Statistical Score: 0
+#METM
+Quality Score: 0.745
+LDR Fidelity Score: 0.78759
+LDR Statistical Score: 0
+
+
+
+
